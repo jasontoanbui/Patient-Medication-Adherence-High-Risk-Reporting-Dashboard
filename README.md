@@ -37,3 +37,9 @@ These thresholds are consistent with commonly used quality and population health
 - Provider-level summaries for high-level review
 - A high-risk patient list to support outreach
 - An Excel dashboard with basic filtering by provider and medication class
+
+## How to Run
+1. Open `med_adherence.db` using SQLite or DBeaver
+2. Execute SQL scripts in the `sql/` folder
+3. Export results to CSV
+4. Open `adherence_dashboard.xlsx` to view the dashboard
