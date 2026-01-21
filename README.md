@@ -1,4 +1,8 @@
-# Medication Adherence Reporting (PDC)
+# Medication Adherence Reporting (portfolio project)
+
+**Measurement period:** 2025-07-01 to 2025-12-31 (184 days)  
+**Focus:** Statins, HTN meds, Diabetes meds  
+**Database:** SQLite (`med_adherence.db`)
 
 ## Overview
 This project analyzes pharmacy refill data to assess medication adherence using
@@ -37,7 +41,6 @@ These thresholds are consistent with commonly used quality and population health
 
 ## Tools Used
 - SQLite
-- SQL
 - Microsoft Excel
 
 
