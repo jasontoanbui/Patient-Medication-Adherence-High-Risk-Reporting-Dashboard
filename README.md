@@ -4,6 +4,15 @@
 **Focus:** Statins, HTN meds, Diabetes meds  
 **Database:** SQLite (`med_adherence.db`)
 
+## Dashboard Preview
+
+![Medication Adherence Dashboard](images/dashboard.png)
+
+## High-Risk Patient View
+
+![High-Risk Outreach List](images/high_risk_outreach.png)
+
+
 ## Overview
 This project analyzes pharmacy refill data to assess medication adherence using
 **Proportion of Days Covered (PDC)** and summarizes the results in an Excel dashboard.
