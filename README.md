@@ -42,3 +42,11 @@ This type of reporting is commonly used in population health and medication ther
 2. Execute SQL scripts in the `sql/` folder
 3. Export results to CSV
 4. Open `adherence_dashboard.xlsx` to view the dashboard
+
+
+## Limitations
+- Data is synthetic and does not reflect real patient behavior
+- Medication changes, therapy discontinuation, and switching are not modeled
+- Adherence is inferred from refill data and does not confirm actual medication use
+- Outreach outcomes and post-intervention adherence are not tracked
+
