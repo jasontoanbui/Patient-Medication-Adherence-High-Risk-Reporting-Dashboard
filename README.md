@@ -4,14 +4,6 @@
 **Focus:** Statins, HTN meds, Diabetes meds  
 **Database:** SQLite (`med_adherence.db`)
 
-## Dashboard Preview
-
-![Medication Adherence Dashboard](images/dashboard.png)
-
-## High-Risk Patient View
-
-![High-Risk Outreach List](images/high_risk_outreach.png)
-
 
 ## Overview
 This project analyzes pharmacy refill data to assess medication adherence using
@@ -19,6 +11,15 @@ This project analyzes pharmacy refill data to assess medication adherence using
 
 The intent is to provide a simple reporting view that helps providers and care teams
 identify patients who may be at risk for non-adherence and prioritize follow-up.
+
+
+## Dashboard Preview
+
+![Medication Adherence Dashboard](images/dashboard.png)
+
+## High-Risk Patient View
+
+![High-Risk Outreach List](images/high_risk_outreach.png)
 
 
 ## Adherence Definitions
