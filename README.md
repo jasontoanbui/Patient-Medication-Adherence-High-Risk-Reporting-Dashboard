@@ -33,10 +33,8 @@ These thresholds are consistent with commonly used quality and population health
 
 
 ## What This Project Produces
-- Patient-level PDC calculations by medication class
-- Provider-level summaries for high-level review
-- A high-risk patient list to support outreach
-- An Excel dashboard with basic filtering by provider and medication class
+This type of reporting is commonly used in population health and medication therapy management programs to support targeted outreach.
+
 
 ## How to Run
 1. Open `med_adherence.db` using SQLite or DBeaver
