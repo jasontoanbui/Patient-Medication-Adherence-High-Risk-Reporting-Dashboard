@@ -1,4 +1,4 @@
-# Medication Adherence Reporting (portfolio project)
+# Medication Adherence Reporting
 
 **Measurement period:** 2025-07-01 to 2025-12-31 (184 days)  
 **Focus:** Statins, HTN meds, Diabetes meds  
